@@ -1,0 +1,23 @@
+{
+  "id": "aedas-mass-combat",
+  "title": "Aedas Mass Combat",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Weewoo",
+      "discord": "weewoo.meow",
+      "flags": {}
+    },
+    {
+      "name": "Sogrim",
+      "discord": "sogrim",
+      "url": "sogrim.ch",
+      "flags": {}
+    }
+  ],
+  "url": "sogrim.ch"
+}
