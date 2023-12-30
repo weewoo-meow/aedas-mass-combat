@@ -9,14 +9,27 @@
   "authors": [
     {
       "name": "Weewoo",
-      "discord": "weewoo.meow",
-      "flags": {}
+      "discord": "weewoo.meow"
     },
     {
       "name": "Sogrim",
       "discord": "sogrim",
-      "url": "sogrim.ch",
-      "flags": {}
+      "url": "sogrim.ch"
+    }
+  ],
+  "scripts": [
+    "js/hooks.js"
+  ],
+  "packs": [
+    {
+      "name": "aedas-scripts",
+      "label": "Aedas Scripts",
+      "path": "packs/aedas-scripts",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "sogrim.ch"
